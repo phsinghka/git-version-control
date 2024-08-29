@@ -1,4 +1,3 @@
 # script.py
-print("Hello, Git!")
-print("This is the development branch")
+print("This is a conflicting change in the feature branch")
 
